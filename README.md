@@ -18,4 +18,7 @@ Learning is so much searching...
 ## Update
 
 It's fun to learn and try it out.
-## Test
+
+## One more Update
+
+Removed the master branch succesfully from git. Let's try to sync up now.
