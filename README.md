@@ -9,3 +9,8 @@ Baby steps!
 Finally....
 
 Learning is so much searching...
+
+
+## Local Development
+
+1. Open index.html in your browser
